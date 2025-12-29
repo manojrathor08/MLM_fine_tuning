@@ -1,4 +1,4 @@
-# BERT Fine-tuning for Masked Language Modeling
+# Fine-tuning for Masked Language Modeling
 
 A complete implementation for fine-tuning BERT (or DistilBERT) models using Masked Language Modeling (MLM) on custom datasets. This project includes optimizations for faster training, better memory efficiency, and proper evaluation practices.
 
@@ -90,4 +90,5 @@ MIT License - see LICENSE file for details
 ## Contributing
 
 Feel free to open issues or submit pull requests if you find bugs or have suggestions for improvements.
+
 
